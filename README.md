@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+<img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" />
 <!--
 **DmytroFedin/DmytroFedin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
